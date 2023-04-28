@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>ok_32.png</file>
+    <file>error_32.png</file>
+    <file>warning_32.png</file>
+  </qresource>
+</RCC>
